@@ -1,0 +1,13 @@
+:root {
+  --primary: #ff4b2b;
+  --secondary: #ff416c;
+  --bg: #f8f9fa;
+  --border: #eeeeee;
+}
+
+body {
+  background-color: var(--bg);
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
